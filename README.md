@@ -3,9 +3,9 @@
 ### Hi there 👋
 ---
 
-I'm Divyankar Bhargav, a Third Year CSE student at @SMVDU 🏫 and aspiring software developer💻. Interested in working on backend, API's and Databases. I have a love/hate relationship with Programming 😐 
+I'm Divyankar Bhargav, a Final Year CSE student at @SMVDU 🏫 and aspiring software developer💻. Interested in working on backend, API's and Databases. I have a love/hate relationship with Programming 😐 
 
-Resume:  [Divyankar Bhargav](https://drive.google.com/file/d/1Aap7x7kth7Gqd-829-XzqXmlp9g3jcSY/view?usp=sharing) (PDF download)
+Resume:  [Divyankar Bhargav](https://drive.google.com/file/d/1H_iOrCQEYMqHznNaAfk72MeWYjbPP6J-/view?usp=sharing) (PDF download)
 
 🔭 *Currently working on*:  Data Science and Cloud Computing.<br>
 🌱 *Currently Learning*: React and React-Native<br>
