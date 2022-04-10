@@ -36,9 +36,20 @@ Resume:  [Divyankar Bhargav](https://drive.google.com/file/d/1H_iOrCQEYMqHznNaAf
 <a href="https://code.visualstudio.com/" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
  </p>
  
+## 📊 My Github Stats
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ScaryWings83289&count_private=true&include_all_commits=true&show_icons=true&title_color=0366d6&icon_color=0366d6&text_color=24292e&bg_color=fff" />
+<a href="https://github.com/ScaryWings83289"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Divyankar Bhargav streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ScaryWings83289&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></a>
+
+<a href="https://github.com/ScaryWings83289"><img alt="Divyankar Github Stats" src="https://github-readme-stats.vercel.app/api?username=ScaryWings83289&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+<a href="https://github.com/accodes21"><img alt="Divyankar Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScaryWings83289&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="300px"/></a>
+
+<a href="https://github.com/accodes21/github-readme-activity-graph"><img alt="Divyankar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ScaryWings83289&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /><a>
 </p>
+ 
+<!-- <p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ScaryWings83289&count_private=true&include_all_commits=true&show_icons=true&title_color=0366d6&icon_color=0366d6&text_color=24292e&bg_color=fff" />
+</p> -->
 
 <!--
 **ScaryWings83289/ScaryWings83289** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
