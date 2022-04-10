@@ -5,7 +5,7 @@
 
 I'm Divyankar Bhargav, a Final Year CSE student at @SMVDU 🏫 and aspiring software developer💻. Interested in working on backend, API's and Databases. I have a love/hate relationship with Programming 😐 
 
-Resume:  [Divyankar Bhargav](https://drive.google.com/file/d/1H_iOrCQEYMqHznNaAfk72MeWYjbPP6J-/view?usp=sharing) (PDF download)
+Resume:  [Divyankar Bhargav](https://drive.google.com/file/d/1SmQYR8gwmbQUEo4Ts0vNO1hYF81l9sVZ/view?usp=sharing) (PDF download)
 
 🔭 *Currently working on*:  Full-stack Development and Cloud Computing.<br>
 🌱 *Currently Learning*: React-Native and Django<br>
