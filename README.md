@@ -1,4 +1,4 @@
-<img src="https://github.com/ScaryWings83289/ScaryWings83289/blob/master/coding.gif" style="width: 100%; height: 80vh;" />
+![bg_image](https://github.com/ScaryWings83289/ScaryWings83289/blob/master/coding.gif)
 
 ### Hi there 👋
 ---
