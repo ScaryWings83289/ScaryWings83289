@@ -1,4 +1,4 @@
-![bg_image](https://github.com/ScaryWings83289/ScaryWings83289/blob/master/coding.gif)
+![bg_image](https://github.com/ScaryWings83289/ScaryWings83289/blob/master/coding.jpeg)
 
 ### Hi there 👋
 ---
