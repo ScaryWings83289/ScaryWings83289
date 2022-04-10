@@ -9,10 +9,6 @@ Resume:  [Divyankar Bhargav](https://drive.google.com/file/d/1H_iOrCQEYMqHznNaAf
 
 🔭 *Currently working on*:  Full-stack Development and Cloud Computing.<br>
 🌱 *Currently Learning*: React-Native and Django<br>
-📫 *How to reach me*: <br>
-<a href="https://www.linkedin.com/in/divyankar-bhargav-a4b487196/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href="mailto:divyankarbhargav@gmail.com/"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/><a/>
-<a href="https://www.instagram.com/divyankarbhargav/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
  
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -40,17 +36,21 @@ Resume:  [Divyankar Bhargav](https://drive.google.com/file/d/1H_iOrCQEYMqHznNaAf
 
 <p align="center">
 <a href="https://github.com/ScaryWings83289"><img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Divyankar Bhargav streak" src="https://github-readme-streak-stats.herokuapp.com/?user=ScaryWings83289&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/></a>
-
+ 
+<p align="center">
 <a href="https://github.com/ScaryWings83289"><img alt="Divyankar Github Stats" src="https://github-readme-stats.vercel.app/api?username=ScaryWings83289&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-<a href="https://github.com/accodes21"><img alt="Divyankar Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScaryWings83289&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="400px"/></a>
-
+<a href="https://github.com/accodes21"><img alt="Divyankar Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScaryWings83289&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" width="360px"/></a>
+<p>
+ 
 <a href="https://github.com/accodes21/github-readme-activity-graph"><img alt="Divyankar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ScaryWings83289&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /><a>
 </p>
  
-<!-- <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ScaryWings83289&count_private=true&include_all_commits=true&show_icons=true&title_color=0366d6&icon_color=0366d6&text_color=24292e&bg_color=fff" />
-</p> -->
-
+<h3 align="left">📫 How to reach me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/divyankar-bhargav/"> <img src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="c" width="50" height="50"/> </a>
+<a href="mailto:divyankarbhargav@gmail.com/"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="50" height="50"/> <a/>
+<a href="https://www.instagram.com/divyankarbhargav/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="50" height="50"/></a>
+</p>
 <!--
 **ScaryWings83289/ScaryWings83289** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
  
