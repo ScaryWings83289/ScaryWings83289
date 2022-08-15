@@ -3,9 +3,11 @@
 ### Hi there 👋
 ---
 
-I'm Divyankar Bhargav, a Final Year CSE student at @SMVDU 🏫 and aspiring software developer💻. Interested in working on backend, API's and Databases. I have a love/hate relationship with Programming 😐 
+I'm Divyankar Bhargav, a passionate self-taught Full Stack Web Developer and a Software Engineer💻 from India specialized in JavaScript with industry experience building websites and web applications. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience, architecture, and code quality of the things I build.
 
-Resume:  [Divyankar Bhargav](https://drive.google.com/file/d/1SmQYR8gwmbQUEo4Ts0vNO1hYF81l9sVZ/view?usp=sharing) (PDF download)
+I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source. I have a love/hate relationship with Programming 😐 
+
+Resume:  [Divyankar Bhargav](https://drive.google.com/file/d/153_8fCfyA-3KZ2TiGDPP3nnVp5ShXnd6/view?usp=sharing) (PDF download)
 
 🔭 *Currently working on*:  Full-stack Development and Cloud Computing.<br>
 🌱 *Currently Learning*: React-Native and Django<br>
