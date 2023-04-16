@@ -23,10 +23,10 @@
 ## 👨🏻‍💻 Laptop in use & Favorite Terminal
 <img src="https://img.shields.io/badge/Apple-MacBook_Pro_2020-333333?style=for-the-badge&logo=apple&logoColor=white"/> <img src="https://img.shields.io/badge/iTerm2-000000?style=for-the-badge&logo=iterm2&logoColor=white"/>
 
-## 📈 Activity Graph
+<!-- ## 📈 Activity Graph
 <p align="center">
  <img src="https://activity-graph.herokuapp.com/graph?username=ScaryWings83289&theme=radical"/>
-</p>
+</p> -->
 
 ## 💳 Github Profile Summary Card
 <p align="center">
