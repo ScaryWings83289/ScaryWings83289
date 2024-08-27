@@ -6,7 +6,7 @@
 
 # 💫 About Me :
 - 😄 Pronouns: He/His
-- 🔭 I’m currently building [UniAcco](https://uniacco.com/).
+<!-- - 🔭 I’m currently building [UniAcco](https://uniacco.com/). -->
 - 🌱 I’m currently learning more about Microservices and Django.
 - 👯 I’m looking to collaborate on interesting open-source projects.
 - 💬 Ask me about React.js or any tech-related stuff.
