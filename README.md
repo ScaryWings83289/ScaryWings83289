@@ -6,10 +6,10 @@
 
 # 💫 About Me :
 - 😄 Pronouns: He/His
-<!-- - 🔭 I’m currently building [UniAcco](https://uniacco.com/). -->
+- 🔭 I’m currently building [Simpplr](https://www.simpplr.com/).
 - 🌱 I’m currently learning more about Microservices and Django.
 - 👯 I’m looking to collaborate on interesting open-source projects.
-- 💬 Ask me about React.js or any tech-related stuff.
+- 💬 Ask me about React.js, Next.js or any tech-related stuff.
 - 😐 I have a love/hate relationship with Programming.
 - 📫 How to reach me: Check social links below.
 <!-- - ⚡ Fun fact: I spend almost 3 hours listening to songs every day. -->
