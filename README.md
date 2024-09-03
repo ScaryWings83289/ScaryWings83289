@@ -12,7 +12,7 @@
 - 💬 Ask me about React.js, Next.js or any tech-related stuff.
 - 😐 I have a love/hate relationship with Programming.
 - 📫 How to reach me: Check social links below.
-<!-- - ⚡ Fun fact: I spend almost 3 hours listening to songs every day. -->
+- ⚡ Fun fact: I spend almost 3 hours listening to songs every day.
 
 ## 🌐 Socials
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/divyankarbhargav/) -->
