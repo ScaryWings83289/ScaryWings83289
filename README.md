@@ -15,7 +15,6 @@
 <!-- - ⚡ Fun fact: I spend almost 3 hours listening to songs every day. -->
 
 ## 🌐 Socials
-<!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/divyankarbhargav/) -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyankar-bhargav/)
 
 ## 💻 Tech Stack
