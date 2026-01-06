@@ -32,7 +32,7 @@ I’ve contributed to **enterprise SaaS products**, **AI-powered features**, **m
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/divyankar-bhargav/)
-![Portfolio](https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=google-chrome&logoColor=white)
+[![Portfolio](https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=google-chrome&logoColor=white)](https://divyankarbhargav.netlify.app/)
 
 ---
 
